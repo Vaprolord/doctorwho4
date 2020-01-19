@@ -1,0 +1,16 @@
+{
+   "Dog": {
+    "name": "Dog.png",
+    "x": -580,
+    "y": 1054,
+    "width": 200,
+    "height": 300
+  },
+   "Krizalyss": {
+    "name": "Krizalyss.png",
+    "x": 2364,
+    "y": -1036,
+    "width": 394,
+    "height": 598
+ }
+}
