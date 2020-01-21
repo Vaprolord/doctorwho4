@@ -34,11 +34,17 @@
     "width": 360,
     "height": 400
  },
-   {
    "erhwesba": {
     "name": "erhwesba.png",
     "x": 4004,
     "y": -1045,
+    "width": 205,
+    "height": 207
+  },
+    "qwegg": {
+    "name": "qwegg.png",
+    "x": 1322,
+    "y": -2783,
     "width": 205,
     "height": 207
   }
